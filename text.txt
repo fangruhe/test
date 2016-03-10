@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+	<head lang="zh-TW">
+		<title>@@part iv</title>
+	</head>
+	<body>
+	<br>
+	<br>
+	<br>
+	<br>
+	<h1 align="center">個人資料表</h1>
+		<table border="1" align="center">
+			<tr>
+				<td align="center" width="60px" height="60px">
+					姓名
+				</td>
+				<td align="center" width="90px" height="60px">
+					何芳如
+				</td>
+				<td rowspan="3">
+					<img src="https://lh3.googleusercontent.com/-BlaImabpTVw/ULoDDsY1ZXI/AAAAAAAAAC4/ltui6RYdjUQ/w346-h347/DSCI0125.JPG" height="200px"/>
+				</td>
+			</tr>
+			<tr>
+				<td align="center" width="60px" height="60px">
+					性別
+				</td>
+				<td align="center" width="90px" height="60px">
+					女
+				</td>
+			</tr>
+			<tr>
+				<td align="center" width="60px" height="60px">
+					電話
+				</td>
+				<td align="left" width="90px" height="60px">
+					0905-386104
+				</td>
+			</tr>
+			<tr>
+				<td align="center" width="60px" height="60px">
+					地址
+				</td>
+				<td colspan="2" align="left" width="270px" height="60px">
+					台中市沙鹿區中航路一段168號
+				</td>
+			</tr>
+			<tr>
+				<td align="center" width="60px" height="60px">
+					興趣
+				</td>
+				<td colspan="2" align="left" width="270px" height="60px">
+					<ul>
+						<li>看電影</li>
+						<li>串珠</li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
